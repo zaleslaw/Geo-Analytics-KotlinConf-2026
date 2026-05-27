@@ -4,6 +4,8 @@ A step-by-step tutorial for analyzing GPS walking tracks using Kotlin DataFrame,
 
 No prior experience with geospatial data is required.
 
+[Presentation](https://speakerdeck.com/zaleslaw/your-life-on-a-map-private-geospatial-analytics-with-kotlin-dataframe-and-kandy)
+
 ---
 
 ## Contents
